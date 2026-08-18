@@ -38,7 +38,9 @@ Business Automation Toolkitは、日常業務で繰り返される作業を自�
 ---
 
 # スクリーンショット
+## GUI
 
+![GUI](docs/images/gui.png)
 ※後ほど追加予定
 
 - GUI画面
