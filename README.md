@@ -1,6 +1,8 @@
 # Business Automation Toolkit
 
-![Demo](docs/images/demo.gif)
+<p align="center">
+  <img src="docs/images/demo.gif" width="900">
+</p>
 
 Pythonを使用した業務自動化ツール集です。
 
