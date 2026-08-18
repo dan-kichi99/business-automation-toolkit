@@ -1,6 +1,6 @@
 # Business Automation Toolkit
 
-![GUI](docs/images/gui.png)
+![Demo](docs/images/demo.gif)
 
 Pythonを使用した業務自動化ツール集です。
 
@@ -42,7 +42,7 @@ Business Automation Toolkitは、日常業務で繰り返される作業を自�
 # スクリーンショット
 ## GUI
 
-![GUI](docs/images/gui.png)
+![Demo](docs/images/demo.gif)
 
 - GUI画面
 - レポート生成画面
