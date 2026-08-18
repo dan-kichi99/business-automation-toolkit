@@ -1,5 +1,7 @@
 # Business Automation Toolkit
 
+![GUI](docs/images/gui.png)
+
 Pythonを使用した業務自動化ツール集です。
 
 第一弾として、CSV・Excelファイルから売上データを読み込み、自動で集計・分析し、見やすいExcelレポートを生成する「Sales Report Generator」を開発しました。
